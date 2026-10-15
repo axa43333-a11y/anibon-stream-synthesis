@@ -137,4 +137,4 @@ npx skills add zenithth/anibon-stream-synthesis/skills/anibon-timestamper -g
 
 ## License
 
-Distributed under the MIT License. See `package.json` for details.
+Distributed under the MIT License. See `package.json` for details
